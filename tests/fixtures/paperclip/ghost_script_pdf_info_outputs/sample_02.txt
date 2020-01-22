@@ -1,0 +1,16 @@
+
+        30x50.pdf has 3 pages
+
+Title: 30x50
+Creator: Adobe Illustrator CC 2017 (Macintosh)
+Producer: Adobe PDF library 15.00
+CreationDate: D:20170726111039+02'00'
+ModDate: D:20170726121757+02'00'
+
+Page 1 MediaBox: [0.0 0.0 96.3786 153.069] BleedBox: [0.0 0.0 96.3786 153.069] TrimBox: [5.6693 5.6693 90.7093 147.399] ArtBox: [5.6693 5.6693 90.7093 147.399]
+
+Page 2 MediaBox: [0.0 0.0 96.3786 153.069] BleedBox: [0.0 0.0 96.3786 153.069] TrimBox: [5.6693 5.6693 90.7093 147.399] ArtBox: [5.6693 5.6693 90.7093 147.399]
+
+Page 3 MediaBox: [0.0 0.0 96.3786 153.069] BleedBox: [0.0 0.0 96.3786 153.069] TrimBox: [5.6693 5.6693 90.7093 147.399] ArtBox: [5.6693 5.6693 90.7093 147.399]
+
+No system fonts are needed.

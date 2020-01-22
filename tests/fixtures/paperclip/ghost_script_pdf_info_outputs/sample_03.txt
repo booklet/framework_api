@@ -1,0 +1,13 @@
+
+        1.pdf has 1 page.
+
+Title: ??barikowscy-naklejka
+Author: ??Tomek
+Creator: ??CorelDRAW X6
+Producer: ??Corel PDF Engine Version 16.4.0.1280
+CreationDate: D:20170731133019+02'00'
+ModDate: D:20170731133019+02'00'
+
+Page 1 MediaBox: [-1.0 -1.0 1248.81104 625.189] CropBox: [-1.0 -1.0 1248.81104 625.189] TrimBox: [-1.0 -1.0 1248.81104 625.189]
+
+No system fonts are needed.

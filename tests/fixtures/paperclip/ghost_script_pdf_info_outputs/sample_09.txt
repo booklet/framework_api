@@ -1,0 +1,13 @@
+
+        3.pdf has 1 page.
+
+Title: ??kontr. likier hubertus tonda
+Author: ??Marek
+Creator: ??CorelDRAW X6
+Producer: ??Corel PDF Engine Version 16.4.1.1281
+CreationDate: D:20170828010442+02'00'
+ModDate: D:20170828010442+02'00'
+
+Page 1 MediaBox: [-9.0 -9.0 292.4646 150.7323] CropBox: [-9.0 -9.0 292.4646 150.7323] BleedBox: [-9.0 -9.0 292.4646 150.7323] TrimBox: [0.0 0.0 283.4646 141.7323]
+
+No system fonts are needed.

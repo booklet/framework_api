@@ -1,0 +1,16 @@
+
+        3.pdf has 3 pages
+
+Title: 3
+Creator: Adobe Illustrator CC 2017 (Macintosh)
+Producer: Adobe PDF library 15.00
+CreationDate: D:20171003123953+02'00'
+ModDate: D:20171003123953+02'00'
+
+Page 1 MediaBox: [0.0 0.0 153.069 153.069] BleedBox: [0.0 0.0 153.069 153.069] TrimBox: [5.66928 5.66928 147.399 147.399] ArtBox: [35.5363 42.8105 98.0332 115.828]
+
+Page 2 MediaBox: [0.0 0.0 294.803 294.803] CropBox: [0.0 0.0 294.803 294.803] BleedBox: [0.0 0.0 294.803 294.803] TrimBox: [5.66928 5.66928 289.134 289.134] ArtBox: [32.9073 77.4304 238.547 261.917]
+
+Page 3 MediaBox: [0.0 0.0 578.268 578.268] CropBox: [0.0 0.0 578.268 578.268] BleedBox: [0.0 0.0 578.268 578.268] TrimBox: [5.66928 5.66928 572.598 572.598] ArtBox: [177.639 179.139 381.129 489.124]
+
+No system fonts are needed.

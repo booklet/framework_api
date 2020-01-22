@@ -1,0 +1,27 @@
+#!/bin/bash
+
+# Usage:
+# $ test - run all tests
+# $ test module nazwa - run all tests in testsuite/module
+# $ test plugin nazwa - run all tests in testsuite/plugin
+# $ test single DHLRequestsTest::testRequestShipment - run single test, no namespace require
+
+# if no params run all test
+if [ -z $1 ] ; then
+    ./vendor/bin/phpunit --configuration config/phpunit.xml && exit 1;
+fi
+
+if [ "$1" = "module" ];
+then
+    ./vendor/bin/phpunit --configuration config/phpunit.xml --testsuite 'module_'$2
+fi
+
+if [ "$1" = "plugin" ];
+then
+    ./vendor/bin/phpunit --configuration config/phpunit.xml --testsuite 'plugin_'$2
+fi
+
+if [ "$1" = "single" ];
+then
+    ./vendor/bin/phpunit --configuration config/phpunit.xml --filter $2'$'
+fi

@@ -1,0 +1,42 @@
+{
+  "name": "boooklet/framework",
+  "repositories": [
+    {
+      "type": "package",
+      "package": {
+        "name": "boooklet/framework",
+        "version": "0.1.0",
+        "type": "package",
+        "source": {
+          "url": "git@github.com/boooklet/framework.git",
+          "type": "git",
+          "reference": "master"
+        }
+      }
+    },
+    {
+      "type": "git",
+      "url": "https://github.com/boooklet/utils.git"
+    },
+    {
+      "type": "git",
+      "url": "https://github.com/boooklet/graphics-tools.git"
+    }
+  ],
+  "require": {
+    "boooklet/utils": "dev-master",
+    "boooklet/graphics-tools": "dev-master",
+    "matthiasmullie/minify": "1.3.46"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6"
+  },
+  "autoload": {
+    "classmap": [
+        "src", "lib"
+    ],
+    "files": [
+        "src/global_functions.php"
+    ]
+  }
+}

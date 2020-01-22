@@ -1,0 +1,22 @@
+#!/bin/bash
+set -e
+
+PHP_ERROR_REPORTING=${PHP_ERROR_REPORTING:-"E_ALL"}
+sed -ri 's/^display_errors\s*=\s*Off/display_errors = On/g' /etc/php/7.0/cli/php.ini
+sed -ri "s/^error_reporting\s*=.*$//g" /etc/php/7.0/cli/php.ini
+echo "error_reporting = $PHP_ERROR_REPORTING" >> /etc/php/7.0/cli/php.ini
+
+# Add custom php.ini setings
+sed -ri "s/^upload_max_filesize\s*=.*$//g" /etc/php/7.0/cli/php.ini
+echo "upload_max_filesize = 64M" >> /etc/php/7.0/cli/php.ini
+
+sed -ri "s/^post_max_size\s*=.*$//g" /etc/php/7.0/cli/php.ini
+echo "post_max_size = 64M" >> /etc/php/7.0/cli/php.ini
+
+sed -i -e 's+<policy domain="coder" rights="none" pattern="PS" />+<policy domain="coder" rights="read|write" pattern="PS" />+g' /etc/ImageMagick-6/policy.xml
+sed -i -e 's+<policy domain="coder" rights="none" pattern="EPS" />+<policy domain="coder" rights="read|write" pattern="EPS" />+g' /etc/ImageMagick-6/policy.xml
+sed -i -e 's+<policy domain="coder" rights="none" pattern="PDF" />+<policy domain="coder" rights="read|write" pattern="PDF" />+g' /etc/ImageMagick-6/policy.xml
+sed -i -e 's+<policy domain="coder" rights="none" pattern="XPS" />+<policy domain="coder" rights="read|write" pattern="XPS" />+g' /etc/ImageMagick-6/policy.xml
+
+# to prevent exit container
+tail -f /dev/null

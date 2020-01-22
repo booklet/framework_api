@@ -1,0 +1,12 @@
+
+        1.pdf has 1 page.
+
+Title: naklejka
+Creator: Adobe Illustrator CC 2015 (Windows)
+Producer: Adobe PDF library 15.00
+CreationDate: D:20170403204602+02'00'
+ModDate: D:20170403204602+02'00'
+
+Page 1 MediaBox: [0.0 0.0 267.78 284.693] CropBox: [0.0 0.0 267.78 284.693] BleedBox: [0.0 0.0 267.78 284.693] TrimBox: [0.0 0.0 267.78 284.693] ArtBox: [16.8661 25.9968 242.598 251.764]
+
+No system fonts are needed.

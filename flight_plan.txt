@@ -1,0 +1,22 @@
+Plan rozwojowy
+
+✔ przywrocenie testowej bazy danych dla testow modeli
+
+❏ przywrocenie zakomentowanych (z powodu wywalenia bazy danych) testów modeli
+
+❏ przepisanie ORM
+  ❏ konstruktor zapytan sql
+  ❏ binder parametrow bez podawania typu
+
+❏ przepisanie relacji
+  ❏ tworzenie obiektów relacyjnych poprzez create_(relation)
+    $client->emails
+    $client->build_email()
+    $client->create_email([...])
+
+❏ kreator elementów html
+
+❏ dodanie biblioteki łączacej i minimalizujacej pliki css i js
+
+❏ dodanie wparcia dla HAML
+❏ doanie wparcia dla scss

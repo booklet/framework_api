@@ -1,0 +1,19 @@
+
+        1.pdf has 4 pages
+
+Title: Untitled-2
+Creator: Adobe InDesign CC 2017 (Macintosh)
+Producer: Adobe PDF Library 15.0
+CreationDate: D:20170824171253+02'00'
+ModDate: D:20170824171255+02'00'
+Trapped: False
+
+Page 1 MediaBox: [0.0 0.0 1232.55 883.89] CropBox: [0.0 0.0 1232.55 883.89] BleedBox: [21.0 21.0 1211.55 862.89] TrimBox: [21.0 21.0 1211.55 862.89]
+
+Page 2 MediaBox: [0.0 0.0 1232.55 883.89] CropBox: [0.0 0.0 1232.55 883.89] BleedBox: [21.0 21.0 1211.55 862.89] TrimBox: [21.0 21.0 1211.55 862.89]
+
+Page 3 MediaBox: [0.0 0.0 1232.55 883.89] CropBox: [0.0 0.0 1232.55 883.89] BleedBox: [21.0 21.0 1211.55 862.89] TrimBox: [21.0 21.0 1211.55 862.89]
+
+Page 4 MediaBox: [0.0 0.0 1232.55 883.89] CropBox: [0.0 0.0 1232.55 883.89] BleedBox: [21.0 21.0 1211.55 862.89] TrimBox: [21.0 21.0 1211.55 862.89]
+
+No system fonts are needed.

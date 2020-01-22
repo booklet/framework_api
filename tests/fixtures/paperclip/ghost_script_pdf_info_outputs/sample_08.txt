@@ -1,0 +1,13 @@
+
+        4.pdf has 1 page.
+
+Title: Beznazwy-1
+Author: Grzegorz i Gosia
+Creator: CorelDRAW X5
+Producer: Corel PDF Engine Version 15.2.0.686
+CreationDate: D:20150319232745+01'00'
+ModDate: D:20170705102707+02'00'
+
+Page 1 MediaBox: [-2.0 0.0 351.496094 238.110199] CropBox: [-2.0 0.0 351.496094 238.110199] TrimBox: [-2.0 0.0 351.496094 238.110199]    Rotate = 270
+
+No system fonts are needed.

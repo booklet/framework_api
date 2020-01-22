@@ -1,0 +1,158 @@
+**** Warning: considering '0000000000 XXXXX n' as a free entry.
+**** Warning: considering '0000000000 XXXXX n' as a free entry.
+**** Warning: considering '0000000000 XXXXX n' as a free entry.
+**** Warning: considering '0000000000 XXXXX n' as a free entry.
+**** Warning: considering '0000000000 XXXXX n' as a free entry.
+**** Warning: considering '0000000000 XXXXX n' as a free entry.
+**** Warning: considering '0000000000 XXXXX n' as a free entry.
+**** Warning: considering '0000000000 XXXXX n' as a free entry.
+**** Warning: considering '0000000000 XXXXX n' as a free entry.
+
+     EN_opis_WebAPI_w45_20161007.pdf has 65 pages
+
+Title: OPIS WebAPI
+Author: Tomasz Gajewski
+Creator: ??Microsoft? Word 2013
+Producer: Mac OS X 10.11.6 Quartz PDFContext
+CreationDate: D:20170316115834Z00'00'
+ModDate: D:20170316115834Z00'00'
+
+Page 1 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 2 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 3 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 4 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 5 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 6 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 7 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 8 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 9 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 10 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 11 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 12 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 13 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 14 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 15 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 16 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 17 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 18 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 19 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 20 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 21 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 22 MediaBox: [0 0 595.32 841.92]    Rotate = 0     Page contains Annotations
+
+Page 23 MediaBox: [0 0 595.32 841.92]    Rotate = 0     Page contains Annotations
+
+Page 24 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 25 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 26 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 27 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 28 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 29 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 30 MediaBox: [0 0 595.32 841.92]    Rotate = 0     Page contains Annotations
+
+Page 31 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 32 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 33 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 34 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 35 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 36 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 37 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 38 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 39 MediaBox: [0 0 595.32 841.92]    Rotate = 0     Page contains Annotations     Page uses transparency features
+
+Page 40 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 41 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 42 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 43 MediaBox: [0 0 595.32 841.92]    Rotate = 0     Page contains Annotations
+
+Page 44 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 45 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 46 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 47 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 48 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 49 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 50 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 51 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 52 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 53 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 54 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 55 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 56 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 57 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 58 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 59 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 60 MediaBox: [0 0 595.32 841.92]    Rotate = 0     Page contains Annotations
+
+Page 61 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 62 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 63 MediaBox: [0 0 595.32 841.92]    Rotate = 0     Page contains Annotations
+
+Page 64 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+Page 65 MediaBox: [0 0 595.32 841.92]    Rotate = 0
+
+**** This file had errors that were repaired or ignored.
+**** The file was produced by:
+**** >>>> Mac OS X 10.11.6 Quartz PDFContext <<<<
+**** Please notify the author of the software that produced this
+**** file that it does not conform to Adobe's published PDF
+**** specification.
+
+
+No system fonts are needed.

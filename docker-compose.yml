@@ -1,0 +1,28 @@
+version: '3'
+services:
+  php:
+    # budujemy z pliku dokera a nie uruchamiany bezposrednio z obraazu
+    build: docker/webserver
+    volumes:
+      - .:/var/www:cached
+      # config/php.ini /usr/local/etc/php/
+    environment:
+      - MYSQL_HOST=db
+    links:
+      - db
+    networks:
+      - default
+  db:
+    build: docker/mysql
+    ports:
+      - 3306
+    restart: always
+    volumes:
+      - framework_mysql_data:/var/lib/mysql
+
+networks:
+  default:
+    driver: bridge
+
+volumes:
+  framework_mysql_data:
