@@ -1,14 +1,14 @@
 {
-  "name": "booklet/framework",
+  "name": "booklet/framework_api",
   "repositories": [
     {
       "type": "package",
       "package": {
-        "name": "booklet/framework",
+        "name": "booklet/framework_api",
         "version": "0.1.0",
         "type": "package",
         "source": {
-          "url": "git@github.com/booklet/framework.git",
+          "url": "git@github.com/booklet/framework_api.git",
           "type": "git",
           "reference": "master"
         }
